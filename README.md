@@ -17,13 +17,13 @@ O usuário informa a linha digitável ou efetua a leitura do código de barras d
 Para instalar a biblioteca, execute o seguinte comando.
 
 ```
-npm install boleto-js@https://github.com/Zigulich/boleto-js
+npm install boleto-js@git+https://git@github.com/Zigulich/boleto-js.git
 ```
 
 ou
 
 ```
-yarn add boleto-js@https://github.com/Zigulich/boleto-js
+yarn add boleto-js@git+https://git@github.com/Zigulich/boleto-js.git
 ```
 
 Importe a biblioteca para o seu projeto.
