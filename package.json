@@ -1,0 +1,18 @@
+{
+	"name": "boleto-js",
+	"version": "1.0.0",
+	"description": "Ferramenta para gerenciamento de boletos com Javascript",
+	"main": "index.js",
+	"author": "Luan Zigulich",
+	"license": "MIT",
+	"scripts": {
+		"build": "tsc --build"
+	},
+	"devDependencies": {
+		"tsx": "^4.7.3",
+		"typescript": "^5.4.5"
+	},
+	"dependencies": {
+		"date-fns": "^3.6.0"
+	}
+}
